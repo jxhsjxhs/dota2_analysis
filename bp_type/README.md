@@ -1,5 +1,6 @@
 ###  本分组是为了拿到最近时间段的各Dota战队BP的分析
 
+
 ```
 1.拿出所有英雄的id 以及名字 以及类型 做好字典
 https://api.opendota.com/api/heroes
@@ -23,7 +24,7 @@ https://api.opendota.com/api/matches/5158231096
 关键字为 
 radiant_team_id
 dire_team_id
-draft_timings
+picks_bans
 最好是用firefox看json
 
 
